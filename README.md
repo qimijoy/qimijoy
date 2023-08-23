@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @qimijoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200"/>
+</div>
 
-<!---
-qimijoy/qimijoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>:man_technologist: About Me:</h2>
+
+Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
+- :date: I have been creating beautiful and reliable websites since 2020
+- :hammer_and_pick: This is my personal Github page for experiments and sketches.
+- :game_die: In my free time, I play board and video games. And I also play the piano. :musical_keyboard:
+
+<div id="badges">
+  <h2>Languages and Tools</h2>
+  <img src="https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less&logoColor=white" alt="Less"/>
+  <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41b883" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41b883" alt="Cypress"/>
+</div>
+
+<div id="Contacts">
+  <h2>My contacts</h2>
+  <a href="https://t.me/painofhail"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="LinkedIn Badge"/></a>
+</div>
+
+<div id="Statistics">
+  <h2>Statistics</h2>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=qimijoy&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=qimijoy&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=qimijoy&show_icons=true" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=qimijoy&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qimijoy&show_icons=true" />
+  </picture>
+  <div><img src="https://komarev.com/ghpvc/?username=qimijoy&style=flat-square&color=blue" alt=""/></div>
+</div>
