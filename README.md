@@ -7,7 +7,7 @@
 Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
 - :date: I have been creating beautiful and reliable websites since 2020.
 - :hammer_and_pick: This is my personal Github page for experiments and sketches.
-- :game_die: In my free time, I play board and video games. And I also play the piano. :musical_keyboard:
+- :game_die: In my free time, I play board and video games.
 
 <div id="badges">
   <h2>Languages and Tools</h2>
