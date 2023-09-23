@@ -11,13 +11,22 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
 
 <div id="badges">
   <h2>Languages and Tools</h2>
-  <img src="https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
-  <img src="https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less&logoColor=white" alt="Less"/>
-  <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp&logoColor=CF4647" alt="Gulp"/>
-  <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41b883" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41b883" alt="Cypress"/>
+  <div>
+    <img src="https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
+    <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
+    <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less&logoColor=white" alt="Less"/>
+    <img src="https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp&logoColor=CF4647" alt="Gulp"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41b883" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=%23646CFF" alt="Vite"/>
+  </div>
+  <div>
+     <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41b883" alt="Cypress"/>
+  </div>
 </div>
 
 <div id="Contacts">
