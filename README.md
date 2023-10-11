@@ -33,12 +33,3 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   <h2>My contacts</h2>
   <a href="https://t.me/qimijoy"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="LinkedIn Badge"/></a>
 </div>
-
-<div id="Statistics">
-  <h2>Statistics</h2>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=qimijoy&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qimijoy&show_icons=true" />
-  </picture>
-  <div><img src="https://komarev.com/ghpvc/?username=qimijoy&style=flat-square&color=blue" alt=""/></div>
-</div>
