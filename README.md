@@ -21,11 +21,14 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
     <img src="https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp&logoColor=CF4647" alt="Gulp"/>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41b883" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=%23646CFF" alt="Vite"/>
+    <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41B883" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=23646C" alt="Vite"/>
   </div>
   <div>
-     <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41b883" alt="Cypress"/>
+     <img src="https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook&logoColor=FF4785" alt="Storybook"/>
+  </div>
+  <div>
+     <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41B883" alt="Cypress"/>
   </div>
 </div>
 
