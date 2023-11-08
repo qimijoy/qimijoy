@@ -36,6 +36,7 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Eslint-090909?style=for-the-badge&logo=Eslint&logoColor=4B32C3" alt="ESLint"/>
+    <img src="https://img.shields.io/badge/-Stylelint-090909?style=for-the-badge&logo=Stylelint&logoColor=263238" alt="Stylelint"/>
     <img src="https://img.shields.io/badge/-Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=F7B93E" alt="Prettier"/>
     <img src="https://img.shields.io/badge/-editorconfig-090909?style=for-the-badge&logo=editorconfig&logoColor=FEFEFE" alt="editorconfig"/>
   </div>
