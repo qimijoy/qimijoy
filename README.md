@@ -46,11 +46,6 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   </div>
 </div>
 
-<div id="Contacts">
-  <h2>My contacts</h2>
-  <a href="https://t.me/qimijoy"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="LinkedIn Badge"/></a>
-</div>
-
 <div id="Statistics">
   <h2>Statistics</h2>
   <picture>
