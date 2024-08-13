@@ -17,13 +17,15 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
     <img src="https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
     <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
     <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6" alt="TypeScript"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less&logoColor=white" alt="Less"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp&logoColor=CF4647" alt="Gulp"/>
-        <img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=23646C" alt="Vite"/>
+    <img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=23646C" alt="Vite"/>
+    <img src="https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41B883" alt="Vue.js"/>
@@ -33,6 +35,7 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   </div>
   <div>
      <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41B883" alt="Cypress"/>
+     <img src="https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest&logoColor=C21325" alt="Jest"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Eslint-090909?style=for-the-badge&logo=Eslint&logoColor=4B32C3" alt="ESLint"/>
