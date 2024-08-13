@@ -15,12 +15,16 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   <h2>Languages and Tools</h2>
   <div>
     <img src="https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
-    <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
-    <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6" alt="TypeScript"/>
   </div>
   <div>
+    <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
     <img src="https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less&logoColor=white" alt="Less"/>
+    <img src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=CC6699" alt="Sass"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel&logoColor=F9DC3E" alt="Babel"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp&logoColor=CF4647" alt="Gulp"/>
@@ -29,6 +33,9 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41B883" alt="Vue.js"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032" alt="Git"/>
   </div>
   <div>
      <img src="https://img.shields.io/badge/-Storybook-090909?style=for-the-badge&logo=Storybook&logoColor=FF4785" alt="Storybook"/>
