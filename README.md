@@ -20,6 +20,7 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
     <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS"/>
     <img src="https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less&logoColor=white" alt="Less"/>
     <img src="https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=CC6699" alt="Sass"/>
+    <img src="https://img.shields.io/badge/-Tailwindcss-090909?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4" alt="Tailwind"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript"/>
@@ -43,6 +44,7 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   <div>
      <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41B883" alt="Cypress"/>
      <img src="https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest&logoColor=C21325" alt="Jest"/>
+     <img src="https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=Playwright&logoColor=41B883" alt="Playwright"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Eslint-090909?style=for-the-badge&logo=Eslint&logoColor=4B32C3" alt="ESLint"/>
