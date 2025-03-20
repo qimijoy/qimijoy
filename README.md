@@ -34,6 +34,8 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41B883" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=vuex&logoColor=41B883" alt="Vuex"/>
+    <img src="https://img.shields.io/badge/-Pinia-090909?style=for-the-badge&logo=pinia&logoColor=41B883" alt="Pinia"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032" alt="Git"/>
