@@ -29,8 +29,8 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   </div>
   <div>
     <img src="https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp&logoColor=CF4647" alt="Gulp"/>
-    <img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=23646C" alt="Vite"/>
     <img src="https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=8DD6F9" alt="Webpack"/>
+    <img src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=23646C" alt="Vite"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js&logoColor=41B883" alt="Vue.js"/>
@@ -46,6 +46,7 @@ Hello everyone, my name is Mikhail, I am a frontend developer from Moscow.
   <div>
      <img src="https://img.shields.io/badge/-Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=41B883" alt="Cypress"/>
      <img src="https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest&logoColor=C21325" alt="Jest"/>
+     <img src="https://img.shields.io/badge/-Vitest-090909?style=for-the-badge&logo=Vitest&logoColor=6E9F18" alt="Vitest"/>
      <img src="https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=Playwright&logoColor=41B883" alt="Playwright"/>
   </div>
   <div>
